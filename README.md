@@ -1,5 +1,4 @@
-# splithalfr: Split-Half Reliabilities
-Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires. 
+The splithalfr-package estimates the split-half reliability of cognitive tasks and questionnaires. It supports a range of splitting methods, various coefficients, bootstrapped confidence intervals, and the option to provide your own scoring algorithm.
 
 ## How to cite
 Please cite the software and the compendium paper.
