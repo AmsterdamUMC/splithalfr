@@ -3,8 +3,10 @@ Below is an example SMP of the R-package `splithalfr`
 # Purpose
 Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires. *Add a brief description of what your software does*
 
+
 # License
 The splithalfr package is made available under the [GNU Lesser Public License v3.0](https://github.com/tpronk/splithalfr/blob/main/LICENSE). *Add a software license; we'll provide some more info on this later.*
+
 
 # User guide
 
@@ -29,16 +31,6 @@ The splithalfr supports a variety of methods for splitting your data. We review 
 
 *How do you use it? Brief guides and tutorials can help new users getting started. Consider adding "further reading" on technical/methodological topics.*
 
-## Citing the software
-*Add (1) a textual style citation, but also (2) a [CITATION.cff](https://citation-file-format.github.io/) file (which shows up as a "cite this" button in GitHub) and (3) any citation standard popular in your programming language, such as [citation(...)](https://rdocumentation.org/packages/utils/versions/3.6.2/topics/citation) for R. The example splithalfr software comes with a paper, so that one is mentioned too.*
-
-Please cite the compendium paper ([Pronk et al., 2022](https://doi.org/10.3758/s13423-021-01948-3)) and the software. To cite the software, see the [CITATION.cff](https://github.com/tpronk/splithalfr/blob/main/CITATION.cff) file, type `citation("splithalfr")` in R, or use the reference below.
-
-Pronk, T. (2023). *splithalfr: Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires* (Version 2.2.2) [Computer software]. https://doi.org/10.5281/zenodo.7777894
-
-## Getting help
-For questions or comments, please make a post in the [splithalfr forum](https://github.com/tpronk/splithalfr/discussions). If you found a bug, please tell me in the [splithafr issues](https://github.com/tpronk/splithalfr/issues). I am maintaining this package in my spare time, so I'll try to help you out on a best-effort basis. *Tell users how to get help and what kind of service they can expect.*
-
 # Developer guide
 Be welcome to modify the source code! If you do, keep the following in mind:
 * Please follow the [Google R Style Guide](https://google.github.io/styleguide/Rguide.html).
@@ -46,3 +38,16 @@ Be welcome to modify the source code! If you do, keep the following in mind:
 * If you've got manual tests of your code, add them to `tests/`
 
 *If you expect other developers, add some information to help them get stared: How do you set up the development environment? What kind of of coding conventions do you use? Are their (automated) tests?*
+
+
+# Citing the splithalfr
+*Add (1) a textual style citation, but also (2) a [CITATION.cff](https://citation-file-format.github.io/) file (which shows up as a "cite this" button in GitHub) and (3) any citation standard popular in your programming language, such as [citation(...)](https://rdocumentation.org/packages/utils/versions/3.6.2/topics/citation) for R. The example splithalfr software comes with a paper, so that one is mentioned too.*
+
+Please cite the compendium paper ([Pronk et al., 2022](https://doi.org/10.3758/s13423-021-01948-3)) and the software. To cite the software, see the [CITATION.cff](https://github.com/tpronk/splithalfr/blob/main/CITATION.cff) file, type `citation("splithalfr")` in R, or use the reference below.
+
+Pronk, T. (2023). *splithalfr: Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires* (Version 2.2.2) [Computer software]. https://doi.org/10.5281/zenodo.7777894
+
+
+# Getting help
+For questions or comments, please make a post in the [splithalfr forum](https://github.com/tpronk/splithalfr/discussions). If you found a bug, please tell me in the [splithafr issues](https://github.com/tpronk/splithalfr/issues). I am maintaining this package in my spare time, so I'll try to help you out on a best-effort basis. *Tell users how to get help and what kind of service they can expect.*
+
