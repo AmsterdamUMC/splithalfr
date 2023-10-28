@@ -1,5 +1,7 @@
 Below is an example SMP of the R-package `splithalfr`
 
+[![AUMC Sustainability Plan (v1)](https://img.shields.io/badge/AUMC_Sustainability_Plan_v1-Tool_(40%25)-yellow)](https://example.com)
+
 # Purpose
 Estimates split-half reliabilities for scoring algorithms of cognitive tasks and questionnaires. *Add a brief description of what your software does*
 
